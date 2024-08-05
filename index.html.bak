@@ -1,0 +1,167 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+		<title>Resume Mohammed Feroze Khan</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1><b>MOHAMMED FEROZE</b> KHAN</h1>
+			<hr>
+			CLOUD ARCHITECT
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+					<!-- contact info including social media -->
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:mohammed.feroze.khan@outlook.com">mohammed.feroze.khan@outlook.com</a>
+                    </p>
+					<p>
+						<i class="fa fa-phone" aria-hidden="true"></i>
+						<a href="tel:+918197790555">+91-8197790555</a>
+					</p>
+					<p>
+                        <i class="fa fa-link"></i>
+                        <a href="https://mfkhan267.github.io/Resume_MFK/" aria-hidden="true">profile</a>
+                    </p>
+					<p>
+						<i class="fab fa-github" aria-hidden="true"></i>
+						<a href="https://github.com/mfkhan267">mfkhan267</a>
+					</p>
+					<p>
+						<i class="fab fa-linkedin" aria-hidden="true"></i>
+						<a href="https://www.linkedin.com/in/ferozekhan267oa/">ferozekhan267oa</a>
+					</p>
+				</section>
+				<section>
+					<h2>TECHNICAL SKILLS</h2>
+                    <p>AWS | Azure | DevOps | Git | GitHub | GitLab |<br> CI/CD | Ansible | Terraform | Jenkins | ArgoCD |<br> Microservices | Docker and Kubernetes |<br> Windows | Intune | Linux | Bash | Powershell |<br> Virtualization | Networking | SDLC | Agile | Distributed Systems
+					</p>
+				</section>
+				<section>
+					<h2>CERTIFICATIONS</h2>
+                    <p>
+						<ul>
+							<li>AWS Solution Architect</li>
+							<li>Microsoft Azure Solution Architect</li>
+							<li>Microsoft Azure Administrator Associate</li>
+							<li>Microsoft Certified Trainer</li>
+							<li>GitHub Foundations Certification</li>
+							<li>Microsoft Certified Azure Virtual Desktop Specialty</li>
+							<li>Microsoft Certified Professional - Windows</li>
+							<li>Microsoft Certified Professional - ConfigMgr</li>
+							<li>ITIL Foundation v3 </li>
+						</ul>
+					</p>
+				</section>
+				<section>
+					<h2>TECHNICAL PROJECTS</h2>
+                    <p>
+						<ul>
+							<li>Jenkins, Docker, ACR and Azure App Service WebApp</li>
+							<li>Jenkins, Docker, ACR and AKS Cluster</li>
+							<li>GitLab, AWS S3 and Static Website Hosting</li>
+							<li>GitLab, AWS S3 and AWS EKS Cluster</li>
+							<li>WordPress Application, Amazon EC2, RDS, Route 53, and VPC</li>
+							<li>WordPress Application and Amazon EKS Cluster</li>
+						</ul>
+					</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					<b>BSC ECONOMICS (FULL TIME)</b>
+					<p>
+						Calcutta University
+					</p>
+					<p>
+						2000-2004
+					</p>
+				</section>
+				<section>
+					<h2>INTERESTS</h2>
+					<p>Foodie, Cycling, Football, Photography, Mentoring, Planetariums, Travel
+					</p>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>PROFESSIONAL SUMMARY</h2>
+					<p>Certified Cloud Architect with extensive experience in designing, deploying, and managing scalable and secure cloud infrastructure on AWS and Azure. Proficient in cloud architecture, DevOps practices, and automation tools. Strong background in cloud security, networking, and distributed systems with a focus on optimizing performance, cost, and compliance. Passionate about leveraging cloud technologies to drive business innovation and efficiency.</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<h3><b>CLOUD ARCHITECT</b></h3>
+<p>UBS AG &nbsp; | &nbsp; DEC 2018 - PRESENT</p><br>
+<p>As a Cloud Architect at UBS, I am working with a team of technical enthusiasts in engineering DevOps and migration solutions on Microsoft Azure. My multifaceted role encompasses Azure Cloud Architecture, DevOps Engineering, and Windows Administration, with a focus on developing Cloud based solutions, including automated deployment of line-of-business applications for UBS AG.</p>
+
+<ul>
+		<li>I have designed and Implemented Global Infrastructure for in-house Microservices with GitLab CI/CD, Jenkins, Ansible, Azure App Service for Containers, Application Gateway, AKS clusters and Azure Container Registry.</li>
+		<li>I am also engaged in as an Azure Cloud Architect / Administrator, DevOps Engineer and Windows Administrator, developing and engineering Windows and Cloud based solutions including development of LOB Applications for UBS AG.</li>
+		<li>As part of efforts in Architecting and deploying scalable, highly available, secure and cost-effective cloud solutions in Azure, I have implemented infrastructure as code (IAC) for provisioning infrastructure with GitLab CI / CD , Jenkins, Terraform, Ansible and Azure DevOps.</li>
+		<li>As part of the UBS Continuous Integration and Deployment projects, I have Designed and implementated multiple CI/CD pipelines for automating application deployments, utilizing DevOps tools (Jenkins, GitLab CI/CD, Azure DevOps, AKS and ACR).</li>
+		<li>I am also involved in migration of Web based applications and mySQL Databases from on-premise to AppService and Azure SQL DB in Azure.</li>
+		<li>I am also enagaged with the assessment and Migraton of on-prem applications into containers using Docker and orchestration tools like AKS and EKS. Ensuring the scalability and reliability of containerized applications.</li>
+		<li>Worked on cost reduction initiatives in the Azure cloud with reserved instances, implementing Auto Shutdown for Azure VMs and Stoppage of non production AKS clusters after non-business hours.</li>
+		<li>I have successfully implemented various instances of Prometheus and Grafana bundle on AKS clusters as part of the observability projects for monitoring and alerting systems for proactive issue identification and centralized logging solutions for efficient troubleshooting.</li>
+		<li>Created High Level Documents (HLDs) and Low Level Documents (LLDs) for Azure and AWS environments.</li>
+		<li>Have implemented various POCs based on AWS EC2, AWS S3, Route 53, EKS of AWS cloud as part of our multi cloud efforts.</li>
+		<li>Implement security best practices for cloud environments with RBAC Policies, MFA and Sign in Risks. This ensure compliance with industry standards and regulatory requirements.</li>
+		<li>I provide technical help to the other projects teams and DevOps engineer, fostering a collaborative and innovative environment. I always Mentor team members and contribute to their skill development.</li>
+</ul>
+
+<h3><b>PRINCIPAL CONSULTANT</b></h3>
+<p>MERCEDES BENZ R&D INDIA &nbsp; | &nbsp; AUG 2016 - NOV 2018</p><br>
+<p>As a Principal Consultant at Mercedes Benz R&D India, I have successfully led and executed critical projects focused on Windows OS migration and deployment, significantly enhancing the efficiency and reliability of the company's desktop client management processes.</p>
+
+<ul>
+	<li>I have developed and managed the Daimler’s Global Windows 10 Operating System Deployment and Migration project using the ConfigMgr and Microsoft Deployment Toolkit.</li>
+	<li> have re-engineered the entire Windows Operating System Build Solution from scratch including Windows operating system image management, device driver management / integration and application packaging for line of business applications and security updates.</li>
+	<li>Fixed and transformed the end-to-end driver testing and hardware certification process for all newly procured enterprise workstations and laptops as part of the OSD Certification Project.</li>
+	<li>Excelled as an escalation engineer for all enterprise-wide issues relating to desktop client management, software deployments, operating system deployments, driver packaging, software distribution, software updates, client health and compliance.</li></ul>
+
+<h3><b>TECHNICAL LEAD</b></h3>
+<p>AON HEWITT &nbsp; | &nbsp; SEPT 2014 - AUG 2016</p><br>
+<p>While working at AON Hewitt as a Deployment Engineer, I have transformed the company’s Global Windows OS Deployment solution, by fully automating the monthly Windows Image Creation and Deployment, thereby saving operating costs and efforts by almost 10-12%. This was a significant improvement in the Windows Deployment process which were now more efficient and reliable than ever.</p>
+
+<ul>
+	<li>Architected and implemented end-to-end Windows operating system deployment capabilities using SCCM and Microsoft Deployment Toolkit.</li>
+	<li>Developed a fully automated solution for creating Windows reference Images as part of the automation efforts.</li>
+	<li>Enhanced device driver management solution, with rigorous driver testing as part of the hardware certification processes for all enterprise-wide workstations and laptops.</li></ul>
+
+<h3><b>TECHNICAL LEAD - SENIOR ANALYST</b></h3>
+<p>ACCENTURE SERVICES PVT LTD &nbsp; | &nbsp; FEB 2012 - SEPT 2014</p><br>
+<p>While I was employed at Accenture, I was working as a Windows Deployment Solution Specialist for many of their Global SCCM projects, where I was dedicatedly working on the Operating System Image Management, Drivers Management and Integration. My role also included Application Packaging for Line of business applications and deploying security updates. I also worked on escalations for issues regarding Operating System Deployments, Software Deployments, Driver Management and Patch Management.</p>
+
+<ul>
+	<li>Led team of windows deployment engineers, providing support on escalation tickets for all enterprise-wide issues relating to Windows desktop client, operating system deployments and software deployments.</li>
+	<li>As a Windows deployment specialist, I developed, managed and supported Windows operating system deployment solutions for many of the Global SCCM projects.</li>
+	<li>Vastly contributed as a technical writer, documenting best practices around designing, developing, implementing and managing Windows operating system deployment solutions with System Center Configuration Manager (SCCM) and Microsoft Deployment Toolkit (MDT) based Infrastructure.</li>
+	<li>Hosted multiple internal trainings regularly, conducted hiring interviews, and created hundreds of technical documents.</li></ul>
+
+<h3><b>TECHNICAL LEAD</b></h3>
+<p>COGNIZANT TECHNOLOGY SOLUTIONS &nbsp; | &nbsp; DEC 2010 - FEB 2012</p><br>
+<p>In my role at Cognizant, I led a team of 14 members in delivering end-user computing and application support to corporate clients, ensuring high levels of customer satisfaction and operational efficiency.</p>
+
+<ul>
+	<li>I have managed a team of system engineers for the Remote Desktop support project, providing end-user computing and application support to the corporate client customers.</li>
+	<li>I have dedicatedly worked on troubleshooting escalation issues with respect to line of business application deployments and providing appropriate root cause analysis and resolutions.</li></ul>
+
+<h3><b>SYSTEM ADMINISTRATOR</b></h3>
+<p>WIPRO TECHNOLOGIES &nbsp; | &nbsp; JUN 2005 - NOV 2010</p><br>
+<p>As a System and Deployment Engineer, I have been extensively involved in Windows deployment projects, technical support, and identity and access management, ensuring seamless operations and support for enterprise environments.</p>
+
+<ul>
+	<li>I have worked for multiple Windows 7 deployment projects, where I had developed, managed and supported Windows operating system deployments for various enterprise clients.</li>
+	<li>I have also contributed vastly in packaging and deploying of line of business applications across the fleets of windows desktops and workstations PCs.</li>
+	<li>I have also been a part of the end user computing / remote desktop support projects, where I worked tirelessly on escalation service calls for windows related issues including, hardware and software failures.</li></ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
