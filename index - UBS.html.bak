@@ -1,0 +1,172 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+		<title>Resume Mohammed Feroze Khan</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1><b>MOHAMMED FEROZE</b> KHAN</h1>
+			<hr>
+			DEVOPS ENGINEER AND CLOUD ARCHITECT
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+					<!-- contact info including social media -->
+                    <p>
+						<ul>
+							<li>EMAIL : mohammed-zd.khan@ubs.com</li>
+							<li>PHONE : +91-8197790555</li>
+							<li>GPN : 43564875</li>
+						</ul>
+					</p>
+				</section>
+				<section>
+					<h2>CERTIFICATIONS</h2>
+                    <p>
+						<ul>
+							<li>AWS Solution Architect</li>
+							<li>Microsoft Azure Solution Architect</li>
+							<li>Microsoft Azure Administrator Associate</li>
+							<li>Microsoft Certified Trainer</li>
+							<li>GitHub Foundations Certification</li>
+							<li>Microsoft Certified Azure Virtual Desktop Specialty</li>
+							<li>Microsoft Certified Professional - Windows</li>
+							<li>Microsoft Certified Professional - ConfigMgr</li>
+							<li>ITIL Foundation v3 </li>
+						</ul>
+					</p>
+				</section>
+				<section>
+					<h2>TECHNICAL PROJECTS</h2>
+                    <p>
+						<ul>
+							<li>Jenkins, Docker, ACR and Azure App Service WebApp</li>
+							<li>Jenkins, Docker, ACR and AKS Cluster</li>
+							<li>GitLab, AWS S3 and Static Website Hosting</li>
+							<li>GitLab, AWS S3 and AWS EKS Cluster</li>
+							<li>WordPress Application, Amazon EC2, RDS, Route 53, and VPC</li>
+							<li>WordPress Application and Amazon EKS Cluster</li>
+						</ul>
+					</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					<b>BSC ECONOMICS (FULL TIME)</b>
+					<p>
+						Calcutta University
+					</p>
+					<p>
+						2000-2004
+					</p>
+				</section>
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>PROFESSIONAL SUMMARY</h2>
+					<p>Certified Cloud Architect with extensive experience in designing, deploying, and managing scalable and secure cloud infrastructure on AWS and Azure. Proficient in cloud architecture, DevOps practices, and automation tools. Strong background in cloud security, networking, and distributed systems with a focus on optimizing performance, high availability, resilience, cost, and compliance. Passionate about leveraging cloud technologies to drive business innovation and efficiency.</p>
+				</section>
+				<section>
+					<h2>TECHNICAL SKILLS</h2>
+<p>Cloud Platforms</p>
+
+<ul>
+		<li>AWS – IAM, VPC, EC2, S3, RDS, EKS, Lambda, Route53, CloudWatch, CloudFormation.</li>
+		<li>Azure – Virtual Machine, Blob Storage, Azure AD, VNet, Azure DevOps, AKS.</li>
+</ul>
+<p>DevOps and Automation</p>
+
+<ul>
+		<li>CI/CD Pipelines - GitLab, Jenkins.</li>
+		<li>Configuration Management IAC - Ansible, Terraform.</li>
+		<li>Containerization – Docker, Kubernetes, Microservices, AKS and EKS (Managed Kubernetes Services).</li>
+		<li>Version Control – Git, GitHub, GitLab.</li>
+		<li>PowerShell and BASH.</li>
+</ul>
+<p>Networking</p>
+
+<ul>
+		<li>VPC, Subnets, Security Groups, NACL, Load Balancing (ALB/NLB), VPN, ExpressRoute.</li>
+		<li>DNS, NAT Gateway, Internet Gateway, CDN, Global Accelerator, Transit Gateway, WAF.</li>
+</ul>
+<p>Security</p>
+
+<ul>
+		<li>IAM, MFA, RBAC, Security Center, AWS KMS, Azure Key Vault, CloudTrail.</li>
+		<li>Cloud Compliance & Governance with Azure Policy, AWS Config, Control Tower, Guardrails.</li>
+</ul>
+<p>Operating Systems</p>
+
+<ul>
+		<li>Windows Server and Linux Administration (Ubuntu, RedHat).</li>
+		<li>Virtualization with VMWARE and Hyper-V.</li>
+		<li>Windows 10 and Windows 11 Migration.</li>
+		<li>Operating System Deployment (OSD).</li>
+				</section>
+				<section>
+					<h2>PROFESSIONAL EXPERIENCE</h2>
+					<h3><b>PRODUCT ARCHITECT AND DEVOPS ENGINEER</b></h3>
+<p>UBS AG &nbsp; | &nbsp; DEC 2018 - PRESENT</p><br>
+<p>As a Subject Matter Expert (Product Architect) at UBS, I collaborate with a team of technical enthusiasts from the GOTO Engineering Group Function, where we oversee, engineer, and develop the VMWARE DEM Application for UBS Workspace platforms on both Microsoft Azure and on-premises virtual environments. I also lead the management and development of DevOps solutions using GitLab as part of the SDLC processes for the VMWARE DEM Application. My multifaceted role encompasses Product Development and DevOps Engineering, including automated deployment of the VMWARE DEM application leveraging GitLab CI/CD Pipelines within the SDLC framework.</p>
+
+<ul>
+		<li>I have designed and Implemented Global Infrastructure for the VMWARE DEM Application with GitLab for Code Respositories, GitLab for CI/CD Pipelines, Azure Files Storage as Application Deployment Targets, Azure VMs as Deployment and Replication Servers and HashiCorp Vault for secrets Management.</li>
+		<li>I have created and maintained High Level Documents (HLDs) and Low Level Documents (LLDs) for the VMWARE DEM Application.</li>
+		<li>I have worked on multiple Automation and Scripting requirements from customers.</li>
+		<li>I also perform code reviews as part our SDLC driven software development activities.</li>
+		<li>I also manage and support the GitLab based SDLC compliant CI/CD pipeline solutions that are completely automated as part of my DevOps and software delivery / deployment efforts.</li>
+</ul>
+
+<h3><b>PRINCIPAL CONSULTANT</b></h3>
+<p>MERCEDES BENZ R&D INDIA &nbsp; | &nbsp; AUG 2016 - NOV 2018</p><br>
+<p>As a Principal Consultant at Mercedes Benz R&D India, I have successfully led and executed critical projects focused on Windows OS migration and deployment, significantly enhancing the efficiency and reliability of the company's desktop client management processes.</p>
+
+<ul>
+	<li>I have successfully executed Daimler’s Global Windows 10 Operating System Deployment and Migration project using deployment tools like ConfigMgr and Microsoft Deployment Toolkit.</li>
+	<li>I have re-engineered the entire Windows Operating System Build Solution from scratch with automated creation of Windows operating system images, integration of device drivers and application packaging for line of business applications and security updates.</li>
+	<li>I have also served as an escalation engineer for all enterprise-wide issues relating to desktop client management, software deployments, operating system deployments, driver packaging, software distribution, software updates, client health and compliance.</li></ul>
+
+<h3><b>TECHNICAL LEAD</b></h3>
+<p>AON HEWITT &nbsp; | &nbsp; SEPT 2014 - AUG 2016</p><br>
+<p>While working at AON Hewitt as a Deployment Engineer, I have transformed the company’s Global Windows Operating System Deployment solution, by fully automating the monthly Windows Image Creation and Deployment, thereby saving operating costs and efforts by almost 10-12%. This was a significant improvement in the Windows Deployment process which were now more efficient and reliable than ever.</p>
+
+<ul>
+	<li>I have developed and maintained end-to-end Windows operating system deployment capabilities using SCCM and Microsoft Deployment Toolkit for deployment across the enterprise.</li>
+	<li>I have used ConfigMgr to create and manage task sequences for automated Operating System deployments.</li>
+	<li>Developed a fully automated solution for creating Windows reference Images as part of the automation efforts.</li>
+	<li>Troubleshooting Operating System deployment failures and resolve issues to ensure successful installations.</li></ul>
+
+<h3><b>TECHNICAL LEAD - SENIOR ANALYST</b></h3>
+<p>ACCENTURE SERVICES PVT LTD &nbsp; | &nbsp; FEB 2012 - SEPT 2014</p><br>
+<p>While I was employed at Accenture, I was working as a Windows Deployment Specialist for many of their Global SCCM projects, where I was working on the Operating System Image Management, Drivers Management and Integration. My role also included Application Packaging for Line of business applications and deploying security updates. I also worked on escalations for issues regarding Operating System Deployments, Software Deployments, Driver Management and Patch Management.</p>
+
+<ul>
+	<li>Led team of windows deployment engineers, providing support on escalation tickets for all enterprise-wide issues relating to Windows desktop client, operating system deployments and software deployments.</li>
+	<li>As a Windows deployment specialist, I developed, managed and supported Windows operating system deployment solutions for many of the Global SCCM projects.</li></ul>
+
+<h3><b>TECHNICAL LEAD</b></h3>
+<p>COGNIZANT TECHNOLOGY SOLUTIONS &nbsp; | &nbsp; DEC 2010 - FEB 2012</p><br>
+<p>In my role at Cognizant, I led a team of 14 members in delivering end-user computing and application support to corporate clients, ensuring high levels of customer satisfaction and operational efficiency.</p>
+
+<ul>
+	<li>I have managed a team of system engineers for the Remote Desktop support project, providing end-user computing and application support to the corporate client customers.</li>
+	<li>I have dedicatedly worked on troubleshooting escalation issues with respect to line of business application deployments and providing appropriate root cause analysis and resolutions.</li></ul>
+
+<h3><b>SYSTEM ADMINISTRATOR</b></h3>
+<p>WIPRO TECHNOLOGIES &nbsp; | &nbsp; JUN 2005 - NOV 2010</p><br>
+<p>As a System and Deployment Engineer, I have been extensively involved in Windows deployment projects, technical support, and identity and access management, ensuring seamless operations and support for enterprise environments.</p>
+
+<ul>
+	<li>I have worked for multiple Windows 7 deployment projects, where I had developed, managed and supported Windows operating system deployments for various enterprise clients.</li>
+	<li>I have also contributed vastly in packaging and deploying of line of business applications across the fleets of windows desktops and workstations PCs.</li>
+	<li>I have also been a part of the end user computing and remote desktop support projects, where I worked tirelessly on escalation service calls for windows related issues including, hardware and software failures.</li></ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
